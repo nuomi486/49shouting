@@ -9,10 +9,10 @@
  参数如下：  
 |  Name | Value  |
 |  --- | --- |
-| ENABLE_UNICOM  | 直接填写 true |
-| UNICOM_APPID  | 填写获取的 appid |
-| UNICOM_USER  | 手机号 |
-| UNICOM_PASSWORD  | 服务密码 |    
+| ENABLE_UNICOM  | true |
+| UNICOM_APPID  | af8ceac06275e6af2826a3cf6ea168d6e0368931026ce082d061d28be8d280a6e9a8823a535aae5bdc907360ffd23fdcd20d527fc1ef68456b543efafd265d9bbde07e9fd1aedda20471e1cc2cadc75d |
+| UNICOM_USER  | 13126061155 |
+| UNICOM_PASSWORD  | 930420 |    
 #### 依次添加共四项
 ![image](https://user-images.githubusercontent.com/79479594/109432827-6d05c880-7a50-11eb-8682-50405d7d66dd.png)
 
@@ -22,7 +22,7 @@
 #### 进入日常任务daily-task，然后Enable Workflow启用工作流  
 ![Snipaste_2021-03-01_05-46-47](https://user-images.githubusercontent.com/79479594/109433041-a428a980-7a51-11eb-8825-8f3e17813a53.png)
 
-#### 回到代码Code处，进入自述文档README.md,随意编辑它，比如删除此处的  /*  。再点击下方绿色Commit changes保存。
+#### 回到代码Code处，进入自述文档README.md,随意编辑它，比如删除此处的 。再点击下方绿色Commit changes保存。
 ![Snipaste_2021-03-01_05-51-46](https://user-images.githubusercontent.com/79479594/109433473-ce7b6680-7a53-11eb-9a1a-c095ab45fcf5.png)
     
 ![Snipaste_2021-03-01_05-54-48](https://user-images.githubusercontent.com/79479594/109433247-bbb46200-7a52-11eb-91be-c48f28503c0f.png)
